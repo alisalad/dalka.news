@@ -6,7 +6,7 @@ category:
   - About Awake
 author: Ali Bashi
 date: 2020-01-09T09:19:16.209Z
-featureImage: uploads/best udub.png
+featureImage: uploads/Qasim.jpg
 ---
 **Guddiga** Farsamada Maamul dhisidda Galmudug ayaa ku dhowaaqay in si rasmi ah u bilaaban doonto xulista xildhibaanada Baarlamaanka cusub Galmudug.
 
